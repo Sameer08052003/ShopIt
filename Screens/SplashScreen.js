@@ -2,7 +2,6 @@ import {StyleSheet, Text, View} from 'react-native';
 import React from 'react';
 
 const SplashScreen = () => {
-  //this is testing
   return (
     <View style={styles.container}>
       <Text style={styles.text}>Shop It....</Text>
