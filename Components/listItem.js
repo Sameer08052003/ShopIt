@@ -92,6 +92,7 @@ const styles = StyleSheet.create({
     justifyContent: 'space-evenly',
   },
   tittleText: {
+    color: 'black',
     fontWeight: '400',
     fontSize: 14,
   },
